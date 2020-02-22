@@ -23,5 +23,4 @@ function fixText(text) {
    
 }
 
-console.log(fixText("the blabla The blabla"));
 
